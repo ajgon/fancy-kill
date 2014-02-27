@@ -5,7 +5,7 @@ Kill processes with style!
 
 ## Installation
 
-    alias fuck=~/whenever/fancy-kill.py
+    alias fuck=~/wherever/fancy-kill.py
 
 ## Usage
 
